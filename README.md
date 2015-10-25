@@ -4,12 +4,11 @@ Example of my jupyterhub docker image [docker-jupyterhub](https://github.com/hid
 
 ---
 
-## Installation
+## Build
 
 ```
 $ docker-compose build
 $ docker-compose up
-$ open http://`docker-machine ip default`:8000
 ```
 
 ## How to use
